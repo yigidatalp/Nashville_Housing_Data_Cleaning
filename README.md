@@ -6,3 +6,5 @@ In this project, I used the data from Nashville housing dataset in Kaggle and pe
 SQL
 
 Data Cleaning
+
+SQL Server Management Studio
